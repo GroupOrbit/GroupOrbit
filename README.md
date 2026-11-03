@@ -4,7 +4,7 @@ ORBIT — GitHub README
 
 <div align="center">
 
-<img src="./banner-yt-orbit.png" alt="ORBIT — Organização de Recursos Baseados em Inovação Tecnológica" width="100%">
+<img src="./banner-orbit.png" alt="ORBIT — Organização de Recursos Baseados em Inovação Tecnológica" width="100%">
 
 <br>
 
